@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuosheng Liu/ Food Microbiology PhD Candidate at UC Davis "
+title                    : "Lily Zhu/ Undergraduate research assistant at UC Davis "
 title_separator          : "-"
-name                     : &name "Zhuosheng Liu"
-description              : &description "A data-driven microbiologist with passion in ML"
-url                      : https://jlk666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lily Zhu"
+description              : &description "UC Davis undergraduate research assistant at food science department"
+url                      : https://lilychacha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jay (Zhuosheng) Liu"
+  name             : "Lily (Linli) Zhu"
   avatar           : "profile.png"
-  bio              : "A data-driven microbiologist"
-  location         : "SF bay area"
+  bio              : "undergraduate research assistant"
+  location         : "Davis, CA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=y7HS1TAAAAAJ&hl=en"
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Zhuosheng-Liu"
+  researchgate     : "https://www.researchgate.net/profile/Linli-Zhu-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/jlk666"
+  github           : "/lilychacha"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "/zhuosheng-liu"
-  orcid            : "https://orcid.org/0000-0002-4241-9526"
+  linkedin         : "/linli-zhu"
+  orcid            : "https://orcid.org/0009-0000-7286-2265"
   pinterest        :
   soundcloud       :
   stackoverflow    :
