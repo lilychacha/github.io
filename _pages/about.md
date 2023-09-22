@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Microbes & Machines: AI-Driven Food Microbiology by Zhuosheng Liu"
+title: "Unveiling the Science of Food: Undergraduate Researcher Lily (Linli) Zhu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
