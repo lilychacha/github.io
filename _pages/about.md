@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Zhu Linli**, a dedicated student pursuing a Bachelor of Science degree in Food Science at the University of California, Davis. I am passionate about the world of food science and its potential to impact the way we nourish ourselves and the planet. Through my studies, I have gained a solid foundation in food science principles, and I am eagerly anticipating my graduation in June 2024. I am currently undergraduate research assistant in [Dr. Delarue's food sensory lab] (https://delaruelab.ucdavis.edu/). If you have any questions, feel free to reach me via email: llzhu@ucdavis.edu
+I am **Zhu Linli**, a dedicated student pursuing a Bachelor of Science degree in Food Science at the University of California, Davis. I am passionate about the world of food science and its potential to impact the way we nourish ourselves and the planet. Through my studies, I have gained a solid foundation in food science principles, and I am eagerly anticipating my graduation in June 2024. I am currently undergraduate research assistant in [Dr. Delarue's food sensory lab](https://delaruelab.ucdavis.edu/). If you have any questions, feel free to reach me via email: llzhu@ucdavis.edu
 
 ------
 
